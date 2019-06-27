@@ -160,3 +160,8 @@ register(
     id='RealMARA3DoF-v0',
     entry_point='gym_gazebo.envs.MARA:RealModularMara3DOFv0Env',
 )
+# Open Manipulator-X
+register(
+    id='OpenManipulator-v0',
+    entry_point='gym_gazebo.envs.open_manipulator:OpenManipulatorv0Env',
+)
