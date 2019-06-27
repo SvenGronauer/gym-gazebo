@@ -1,1 +1,1 @@
-from gym_gazebo.envs.gazebo_cartpole.gazebo_cartpole_v0 import GazeboCartPolev0Env
+from gym_gazebo.envs.open_manipulator.open_manipulator_v0 import OpenManipulatorv0Env
